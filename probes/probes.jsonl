@@ -1,0 +1,6 @@
+{"input": "", "expect": "", "task": "rna-transcription", "lang": "python"}
+{"input": "C", "expect": "G", "task": "rna-transcription", "lang": "python"}
+{"input": "G", "expect": "C", "task": "rna-transcription", "lang": "python"}
+{"input": "T", "expect": "A", "task": "rna-transcription", "lang": "python"}
+{"input": "A", "expect": "U", "task": "rna-transcription", "lang": "python"}
+{"input": "ACGTGGTCTTAA", "expect": "UGCACCAGAAUU", "task": "rna-transcription", "lang": "python"}
